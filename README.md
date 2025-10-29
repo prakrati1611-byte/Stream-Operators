@@ -1,1 +1,1 @@
-# rxjs-practical-7-repository
+# Stream Operators
